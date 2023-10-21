@@ -1,2 +1,2 @@
 # flatdeck
-Kinda ridiculous Cyberdeck, based around a framework mainboard
+Kinda ridiculous Cyberdeck, based around a framework mainboard.
