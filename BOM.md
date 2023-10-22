@@ -77,12 +77,17 @@
   - 100W Passthrough, HDMI Out
   - https://www.aliexpress.com/item/1005006049279676.html
   - 16,18€
+
+- [ ]  **ext WiFi-Adapter for a bit of White Hat fun**
+  - ALFA NETWORK AWUSO36ACH Typ-C WiFi USB Adapter
+  - https://www.amazon.de/dp/B08SJC78FH
+  - 58,80€
   
 - [ ]  **SPIDriver Core**
   - Interesting SPIDriver with built-in colour screen as signal monitor
   - https://www.crowdsupply.com/excamera/spidriver
   - 29€
 
-**All-in-all that's 802,49€. All that is without postage or customs, so this
+**All-in-all that's 861,29€. All that is without postage or customs, so this
 price could still fluctuate a tad.**
 
