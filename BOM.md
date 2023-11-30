@@ -1,5 +1,5 @@
 # Bill of Materials
-(I´ve linked mostly black anodized parts. You can ofc source your own in the colour you want.)
+(All prices listed are with VAT, but without postage)
 
 - [ ]  **Mainboard**
   - Frtamework Intel® Core™ i7-1165G7
@@ -35,6 +35,12 @@
   - 212x104
   - https://www.aliexpress.com/item/4000560969424.html
   - 14,36€
+
+- [ ]  **Fourth Screen**
+  - Wisecoco 1.39" OLED-Display
+  - 454x454
+  - https://www.aliexpress.com/item/1005003434564041.html
+  - 56,37€
 
 - [ ]  **PSU**
   - any external 65W USB-C Powerbrick, i like the one from Baseus
@@ -88,6 +94,21 @@
   - https://www.crowdsupply.com/excamera/spidriver
   - 29€
 
-**All-in-all that's 861,29€. All that is without postage or customs, so this
+- [ ]  **2x Flat 14cm USB-C-cables**
+  - for connecting Screen and HDMI-adapter
+  - https://www.aliexpress.com/item/1005005816000495.html
+  - 8,88€
+
+- [ ]  **Proxmark3 RFID Duplicator**
+  - for duplicating/writing RFID keys/cards
+  - https://www.aliexpress.com/item/1005005323933108.html
+  - 37,09€
+
+- [ ]  **5x super barebone 16GB USB3.0 usb-sticks**
+  - integrated into the Design for the most important tools and OS´s
+  - https://www.aliexpress.com/item/1005006119833413.html
+  - 15€
+
+**All-in-all that's 978,63€. All that is with VAT but without postage or customs, so this
 price could still fluctuate a tad.**
 
